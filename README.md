@@ -24,3 +24,6 @@ I am using this repos to learn about:
 * Adv unit testing
 * Documentation writing in Python
 * Date-time conversion in Python ahhh
+* Visualizations
+* Reading a csv from Google spreadsheets (collaboration friendly)
+* Using an AI API to suggests related tasks, fill in missing information
