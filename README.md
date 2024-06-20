@@ -11,9 +11,9 @@
 
 ```
 
-A task organizer written in Python, for the terminal. 
+Summer 2024 project: A task organizer written in Python, for the terminal. 
 
-I am using this repos to learn about:
+[While reading Fluent Python 2nd edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/), I am using this repos to learn about:
 
 * OOP Python + Pandas
 * Calling Rust from Python
@@ -26,4 +26,4 @@ I am using this repos to learn about:
 * Date-time conversion in Python ahhh
 * Visualizations
 * Reading a csv from Google spreadsheets (collaboration friendly)
-* Using an AI API to suggests related tasks, fill in missing information
+* Using an AI API to suggest related tasks, fill in missing information etc.
