@@ -1,0 +1,7 @@
+p workout today
+p call office about plates
+n go out and get some coffee
+d eat breakfast
+d eat lunch
+n go out for dinner
+p sleep early
