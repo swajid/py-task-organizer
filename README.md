@@ -25,6 +25,7 @@ Summer 2024 project: A task organizer written in Python, for the terminal.
 * Package development
 * Github for releases
 * Adv unit testing
+  * https://realpython.com/python-unittest/
 * Develop an API
 * Documentation writing in Python
 * Date-time conversion in Python ahhh
